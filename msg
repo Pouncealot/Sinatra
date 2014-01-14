@@ -1,0 +1,24 @@
+New
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: G <Green@localhost.localdomain>
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Gemfile
+#	new file:   Gemfile.lock
+#	new file:   helloworld.rb
+#
+# Untracked files:
+#	Gemfile.rb
+#	Gemfile~
+#	ex1.rb
+#	ex1.rb~
+#	ex9.rb
+#	ex9.rb~
+#	helloworld.rb~
+#	log
+#

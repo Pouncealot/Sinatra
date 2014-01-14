@@ -1,0 +1,22 @@
+/bin/bash: :quit: command not found
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: G <Green@localhost.localdomain>
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Gemfile
+#	new file:   Gemfile.lock
+#
+# Untracked files:
+#	Gemfile.rb
+#	Gemfile~
+#	ex1.rb
+#	ex1.rb~
+#	ex9.rb
+#	ex9.rb~
+#	helloworld.rb
+#	helloworld.rb~
+#
